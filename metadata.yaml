@@ -1,0 +1,34 @@
+_repo: Winds-Of-DoctrineStudies-in-Contemporary-Opinion_17771
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Santayana, George
+    aliases:
+    - Santayana, Jorge
+    - Santayana, Georgius
+    birthdate: 1863
+    deathdate: 1952
+    gutenberg_agent_id: '5805'
+    url: http://www.gutenberg.org/2009/agents/5805
+    wikipedia: http://en.wikipedia.org/wiki/George_Santayana
+description: ''
+gutenberg_issued: '2006-02-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17771'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Philosophy, Modern'
+- !lcc 'B'
+tableOfContents: 'The intellectual temper of the age -- Modernism and Christianity
+  -- The philosophy of M. Henri Bergson -- The philosophy of Mr. Bertrand Russell
+  -- Shelley: or, The poetic value of revolutionary principles -- The genteel tradition
+  in American philosophy.'
+title: 'Winds Of Doctrine: Studies in Contemporary Opinion'
+url: http://www.gutenberg.org/ebooks/17771
